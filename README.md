@@ -33,7 +33,28 @@ A modern HelpDesk Ticket Management System built with **Laravel 12**.
 
 ## 📸 Screenshots
 
-> Screenshots will be added in the next update.
+## 📸 Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Register
+![Register](screenshots/register.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### My Tickets
+![My Tickets](screenshots/my-tickets.png)
+
+### Create Ticket
+![Create Ticket](screenshots/create-ticket.png)
+
+### Ticket Details
+![Ticket Details](screenshots/ticket-details.png)
+
+### Agent Dashboard
+![Agent Dashboard](screenshots/agent-dashboard.png)
 
 ---
 
